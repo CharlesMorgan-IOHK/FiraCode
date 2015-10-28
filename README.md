@@ -1,6 +1,5 @@
 # Fira Code: Mono-Spaced Font with Programming Ligatures
-## Awesome for all of your IDEs
-## Developed By:  Nikita Prokopov -- "tonsky" 
+## Awesome for all of your IDEs By Nikita Prokopov
 
 <img src="https://dl.dropboxusercontent.com/u/561580/imgs/fira_code_logo.svg">
 
@@ -14,11 +13,11 @@ Fira Code is a Fira Mono font extended with a set of ligatures for common progra
 
 ### Fira Code (with ligatures):
 
-<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/all_ligatures.png" />
+<img src="./showcases/all_ligatures.png" />
 
 Compare to Fira Mono (without ligatures):
 
-<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/no_ligatures.png" />
+<img src="./showcases/no_ligatures.png" />
 
 ### Editor support
 
@@ -61,24 +60,24 @@ _Note:_ I’m not a font designer, and Fira Code is built in sort of [a hacky wa
 
 Ruby:
 
-<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/ruby.png" />
+<img src="./showcases/ruby.png" />
 
 JavaScript:
 
-<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/javascript.png" />
+<img src="./showcases/javascript.png" />
 
 
 Erlang:
 
-<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/erlang.png" />
+<img src="./showcases/erlang.png" />
 
 Go:
 
-<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/go.png" />
+<img src="./showcases/go.png" />
 
 Haskell:
 
-<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/haskell.png" />
+<img src="./showcases/haskell.png" />
 
 ### Alternatives
 
