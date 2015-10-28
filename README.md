@@ -14,11 +14,11 @@ Fira Code is a Fira Mono font extended with a set of ligatures for common progra
 
 ### Fira Code (with ligatures):
 
-<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/showcases/all_ligatures.png" />
+<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/all_ligatures.png" />
 
 Compare to Fira Mono (without ligatures):
 
-<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/showcases/no_ligatures.png" />
+<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/no_ligatures.png" />
 
 ### Editor support
 
@@ -61,24 +61,24 @@ _Note:_ I’m not a font designer, and Fira Code is built in sort of [a hacky wa
 
 Ruby:
 
-<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/showcases/ruby.png" />
+<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/ruby.png" />
 
 JavaScript:
 
-<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/showcases/javascript.png" />
+<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/javascript.png" />
 
 
 Erlang:
 
-<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/showcases/erlang.png" />
+<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/erlang.png" />
 
 Go:
 
-<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/showcases/go.png" />
+<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/go.png" />
 
 Haskell:
 
-<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/showcases/haskell.png" />
+<img src="https://github.com/tonsky/FiraCode/tree/master/showcases/haskell.png" />
 
 ### Alternatives
 
